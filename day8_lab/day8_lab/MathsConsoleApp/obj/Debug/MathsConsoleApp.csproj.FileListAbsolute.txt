@@ -1,0 +1,6 @@
+E:\B4 MS.NET\day8_lab\MathsConsoleApp\bin\Debug\MathsConsoleApp.exe.config
+E:\B4 MS.NET\day8_lab\MathsConsoleApp\bin\Debug\MathsConsoleApp.exe
+E:\B4 MS.NET\day8_lab\MathsConsoleApp\bin\Debug\MathsConsoleApp.pdb
+E:\B4 MS.NET\day8_lab\MathsConsoleApp\obj\Debug\MathsConsoleApp.csprojResolveAssemblyReference.cache
+E:\B4 MS.NET\day8_lab\MathsConsoleApp\obj\Debug\MathsConsoleApp.exe
+E:\B4 MS.NET\day8_lab\MathsConsoleApp\obj\Debug\MathsConsoleApp.pdb

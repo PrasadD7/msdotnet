@@ -1,0 +1,20 @@
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\bin\Debug\BLL.dll
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\bin\Debug\BLL.pdb
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\bin\Debug\BOL.dll
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\bin\Debug\DAL.dll
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\bin\Debug\BOL.pdb
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\bin\Debug\DAL.pdb
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\obj\Debug\BLL.dll
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BLL\obj\Debug\BLL.pdb
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BLL\bin\Debug\BLL.dll
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BLL\bin\Debug\BLL.pdb
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BLL\bin\Debug\BOL.dll
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BLL\bin\Debug\DAL.dll
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BLL\bin\Debug\BOL.pdb
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BLL\bin\Debug\DAL.pdb
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BLL\obj\Debug\BLL.dll
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BLL\obj\Debug\BLL.pdb

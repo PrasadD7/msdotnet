@@ -1,0 +1,10 @@
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BOL\bin\Debug\BOL.dll
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BOL\bin\Debug\BOL.pdb
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BOL\obj\Debug\BOL.dll
+D:\RaviT\DAC_Course\DAC\DAC_Acts_Aug19\IndianCitizenPortalSolution\BOL\obj\Debug\BOL.pdb
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BOL\bin\Debug\BOL.dll
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BOL\bin\Debug\BOL.pdb
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BOL\obj\Debug\BOL.dll
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BOL\obj\Debug\BOL.pdb
+E:\B4 MS.NET\day7_lab\IndianCitizenPortalSolution\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
